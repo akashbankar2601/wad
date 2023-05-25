@@ -1,0 +1,12 @@
+#sub {
+     display: block;
+     width: 100%;
+     border: 1px solid #bb3e3e;
+     padding: 10px;
+     border-radius: 5px;
+     color: #501f87
+ }
+
+ #sub:focus {
+     outline: none
+ }
